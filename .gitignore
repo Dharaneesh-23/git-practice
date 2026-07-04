@@ -1,0 +1,24 @@
+*
+!frontend/
+!frontend/**
+frontend/node_modules
+!backend/
+!backend/**
+backend/Include
+backend/Lib
+backend/Scripts
+backend/pyvenv.cfg
+backend/credentials.txt
+backend/aramm_backend/db.sqlite3
+backend/aramm_backend/aramm_backend/__pycache__/
+backend/aramm_backend/api/__pycache__/
+backend/aramm_backend/api/migrations/__pycache__/
+frontend/.env
+!.gitignore
+!Arann Skin clinic
+backend/aramm_backend/images
+backend/aramm_backend/media
+frontend/public/logo192.png
+frontend/public/logo512.png
+frontend/src/Components/assets/images
+frontend/src/Components/assets/video
